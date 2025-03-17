@@ -1,0 +1,14 @@
+/Users/aashutoshpaneru/Assignment5_AashutoshPaneru/bin/Debug/net9.0/Assignment5_AashutoshPaneru
+/Users/aashutoshpaneru/Assignment5_AashutoshPaneru/bin/Debug/net9.0/Assignment5_AashutoshPaneru.deps.json
+/Users/aashutoshpaneru/Assignment5_AashutoshPaneru/bin/Debug/net9.0/Assignment5_AashutoshPaneru.runtimeconfig.json
+/Users/aashutoshpaneru/Assignment5_AashutoshPaneru/bin/Debug/net9.0/Assignment5_AashutoshPaneru.dll
+/Users/aashutoshpaneru/Assignment5_AashutoshPaneru/bin/Debug/net9.0/Assignment5_AashutoshPaneru.pdb
+/Users/aashutoshpaneru/Assignment5_AashutoshPaneru/obj/Debug/net9.0/Assignment5_AashutoshPaneru.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aashutoshpaneru/Assignment5_AashutoshPaneru/obj/Debug/net9.0/Assignment5_AashutoshPaneru.AssemblyInfoInputs.cache
+/Users/aashutoshpaneru/Assignment5_AashutoshPaneru/obj/Debug/net9.0/Assignment5_AashutoshPaneru.AssemblyInfo.cs
+/Users/aashutoshpaneru/Assignment5_AashutoshPaneru/obj/Debug/net9.0/Assignment5_AashutoshPaneru.csproj.CoreCompileInputs.cache
+/Users/aashutoshpaneru/Assignment5_AashutoshPaneru/obj/Debug/net9.0/Assignment5_AashutoshPaneru.dll
+/Users/aashutoshpaneru/Assignment5_AashutoshPaneru/obj/Debug/net9.0/refint/Assignment5_AashutoshPaneru.dll
+/Users/aashutoshpaneru/Assignment5_AashutoshPaneru/obj/Debug/net9.0/Assignment5_AashutoshPaneru.pdb
+/Users/aashutoshpaneru/Assignment5_AashutoshPaneru/obj/Debug/net9.0/Assignment5_AashutoshPaneru.genruntimeconfig.cache
+/Users/aashutoshpaneru/Assignment5_AashutoshPaneru/obj/Debug/net9.0/ref/Assignment5_AashutoshPaneru.dll
